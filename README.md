@@ -3,4 +3,11 @@ Similar to your physical wallet for safeguarding money, the Encrypted Password P
 
 ![image](https://github.com/AuxGrep/Encrypted-Password-Pocket/assets/103135612/7fb1f2c1-be23-4242-a887-8fdbfeead567)
 
+# LOGINS
+Default username: admin and password: password
 
+# RUN IN 
+1. Windows
+2. Linux
+
+Visit the release page to Download
